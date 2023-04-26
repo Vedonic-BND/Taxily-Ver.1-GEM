@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385984346615",
+    "project_id": "taxily-ver-1",
+    "storage_bucket": "taxily-ver-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385984346615:android:a530b6e2db7d49aa2216f2",
+        "android_client_info": {
+          "package_name": "com.example.taxilyver1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385984346615-e0itik9udvfa8emt7re64tfp0s75c468.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6F50-0FPIBWvtTlVFUx4KzRXJQG7kwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385984346615-e0itik9udvfa8emt7re64tfp0s75c468.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
